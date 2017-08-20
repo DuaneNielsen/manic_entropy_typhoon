@@ -1,0 +1,4 @@
+[gerrit]
+host=review.openstack.org
+port=29418
+project=duanenielsen/manic_entropy_typhoon.git
